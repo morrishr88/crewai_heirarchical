@@ -1,0 +1,6 @@
+override=True
+OPENAI_API_KEY=sk-proj-XXXXXX-model-key-from-platform.openai.com
+TAVILY_API_KEY=tvly-dev-XXXXXX-app.tavily.com
+OPEN_APIMODEL=gpt-5-mini
+OPENAI_ORG=org-XXXXX-org-key-from-platform.openai.com
+CREWAI_TRACING_ENABLED=true
