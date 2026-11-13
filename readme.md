@@ -17,7 +17,15 @@ A concise, one-to-two sentence description of what the project does and why it i
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
-* Python version >= 3.10 and < 3.14 installed.
+* Python version       >= 3.10 and < 3.14 installed and the following python libraries
+       langchain       ==1.4.3
+       langchain-openai==1.6.7
+       langgraph       ==1.2.12
+       crewai          ==1.15.23
+       [azure-ai-inference,litellm]
+       tavily-python   ==0.8.4
+       python-dotenv   ==1.2.4
+
 * An active API key from AI LLM model that you manage or have access to.
 * OS environment capable of running Bash or PowerShell scripts.
 
